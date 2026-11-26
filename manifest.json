@@ -1,0 +1,17 @@
+{
+  "name": "Brain vs. Hands",
+  "short_name": "Brain vs. Hands",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0a09",
+  "theme_color": "#0b0a09",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='110' fill='%230b0a09'/%3E%3Ccircle cx='185' cy='256' r='80' fill='%23eb8c34'/%3E%3Ccircle cx='327' cy='256' r='80' fill='%23cf4fa3'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
